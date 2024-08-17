@@ -15,6 +15,7 @@ And I recommend that the rows and columns of the table are not distorted.
 
 ## Version : v0.1 Beta
 in this model i used MNIST and [printed digit dataset](https://github.com/kaydee0502/printed-digits-dataset).
+
 <img src="data/printed_digit/1/1_0.jpg" width="100" height="100" align = "left"/>
 <img src="data/printed_digit/2/2_0.jpg" width="100" height="100" align="middle"/>
 <img src="data/printed_digit/8/8_0.jpg" width="100" height="100" align="left"/>
@@ -61,6 +62,6 @@ http://127.0.0.1:7860
 ```
 
 ## example of usage
-in this example used [img/sudoku2.jpg](https://github.com/momoein/Ai_sudoku_solver/tree/master/img/sudoku2.jpg) 
+in this example used [img/sudoku2.jpg](img/sudoku2.jpg) 
 
 <img src="img/application_test.png" width="748" height="318" align = "left"/>
