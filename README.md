@@ -1,7 +1,7 @@
 # HU-AI-Spring2024
 This repository contains the projects developed by students in the Artificial Intelligence class (Spring 2024) at the University of Hormozgan. The projects showcase the students' understanding and application of various AI techniques, including machine learning, search Algorithms, computer vision, and more.
 
-The Artificial Intelligence course was co-taught by Dr. Shahram Golzari and  Parisa Zarei , with  Mohammad Azim Saraji serving as the teaching assistant.
+The Artificial Intelligence course was co-taught by Dr. Shahram Golzari and  Parisa Zarei , with  [Mohammad Azim Saraji](https://github.com/MASaraji) serving as the teaching assistant.
 
 ## Table of Contents
 - [Project List](#project-list)
