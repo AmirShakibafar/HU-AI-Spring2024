@@ -13,17 +13,17 @@ The Artificial Intelligence course was co-taught by Dr. Shahram Golzari and  Par
 ## Project List
 The following projects are included in this repository:
 
-1. **Project 1: [Project Title]**
+1. **Project 1: Ai sudoku solver**
 2. **Project 2: [Project Title]** 
 3. **Project 3: [Project Title]**
 
 ## Project Details
 
-### Project 1: [Project Title]
-- **Description:** Provide a detailed description of the project, its objectives, and the techniques used.
-- **Team Members:** List the students who worked on this project.
-- **Demo:** Include a link to a live demo or a video demonstration of the project (if available).
-- **Repository:** Provide a link to the project's repository (if it's a separate repository).
+### Project 1: Ai sudoku solver
+- **Description:** simple program to solve sudoku using computer vision and neural networks. [more](Ai_sudoku_solver/README.md)
+- **Team Members:** [mohammad moeini](https://github.com/momoein)
+- **Demo:** -
+- **Repository:** [Ai_sudoku_solver](https://github.com/momoein/Ai_sudoku_solver)
 
 ### Project 2: [Project Title]
 - **Description:** Provide a detailed description of the project, its objectives, and the techniques used.
